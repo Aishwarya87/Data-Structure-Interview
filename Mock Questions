@@ -1,0 +1,6 @@
+1) File structure versus Data Structure:
+ans: local storage ; both on RAM and disk
+
+2) Multidimensional array: More than one index variable(for rows or columns). ex: location in GPS.
+
+3) Linked lists are both linear and non-linear.
